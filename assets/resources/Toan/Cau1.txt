@@ -1,0 +1,2 @@
+Câu 1: Mai có 7 viên bi, Hồng có 15 viên bi.
+Hỏi Hồng phải cho Mai bao nhiêu viên bi để số bi của hai bạn bằng nhau./*A. 3 viên/*B. 5 viên/*C. 4 viên/*D. 6 viên/*C/*

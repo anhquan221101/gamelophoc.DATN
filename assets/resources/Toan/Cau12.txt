@@ -1,0 +1,2 @@
+Câu 12:Nếu lấy số chẵn lớn nhất có 5 chữ số trừ đi số lẻ bé nhất có 4 chữ số
+thì được hiệu là:/*A. 98 997/*B. 98 998/*C. 98 999/*D. 98 987/*A/*

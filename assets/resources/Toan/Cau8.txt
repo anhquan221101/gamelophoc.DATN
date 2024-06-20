@@ -1,0 +1,2 @@
+Câu 8: Bể thứ nhất chứa được 4827 lít nước. 
+Bể thứ hai chứa được 2634 lít nước. Cả hai bể chứa là::/*A. 8461/*B. 9361/*C. 8961/*D. 7461/*D/*

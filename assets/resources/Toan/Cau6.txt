@@ -1,0 +1,1 @@
+Câu 6: Hiệu của số lớn nhất có bốn chữ số và số nhỏ nhất có ba chữ số là:/*A. 9899/*B. 9999/*C. 9888/*D. 8888/*A/*

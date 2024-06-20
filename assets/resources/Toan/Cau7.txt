@@ -1,0 +1,3 @@
+Câu 7: Lớp trưởng chỉ huy cả lớp xếp hàng.
+Cả lớp xếp được 4 hàng, mỗi hàng có 7 bạn. 
+Hỏi lớp đó có bao nhiêu học sinh?/*A. 29 học sinh./*B. 32 học sinh./*C. 30 học sinh./*D. 28 học sinh./*D/*

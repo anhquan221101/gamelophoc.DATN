@@ -1,0 +1,2 @@
+Câu 14: Số nào trong các số dưới đây mà để xuôi hay quay ngược lại
+vẫn giữ nguyên giá trị/*A.	606/*B.	111/*C.	886/*D.	689/*B/*

@@ -1,0 +1,2 @@
+Câu 11: Có 372 quyển sách xếp đều vào 2 tủ, mỗi tủ có 3 ngăn.
+Hỏi mỗi ngăn có bao nhiêu quyển sách? Biết mỗi ngăn có số sách như nhau./*A. 186 quyển/*B. 172 quyển/*C. 62 quyển/*D. 126 quyển/*C/*
